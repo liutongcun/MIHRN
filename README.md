@@ -8,6 +8,7 @@ The paper link: https://ieeexplore.ieee.org/document/10769057
 `python main.py --dataset=diginetica` 
 
 ## Citation
+~~~~
 @ARTICLE{10769057,
   author={Liu, Tongcun and Bao, Xukai and Zhang, Jiaxin and Fang, Kai and Feng, Hailin},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
@@ -18,3 +19,4 @@ The paper link: https://ieeexplore.ieee.org/document/10769057
   pages={1-13},
   keywords={Data models;Geometry;Convolution;Attention mechanisms;Analytical models;Vectors;Schedules;Recurrent neural networks;Recommender systems;Predictive models;Hyperbolic representation;hypergraph convolution;multiaspect interest;session-based recommendation (SBR)},
   doi={10.1109/TNNLS.2024.3502769}}
+~~~~
